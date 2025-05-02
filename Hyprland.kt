@@ -1,4 +1,5 @@
-Para instalação automatizada do Hyprland no Arch Linux ou em qualquer distribuição baseada no Arch Linux
+Para instalação automatizada do Hyprland no Arch Linux
+ou em qualquer distribuição baseada no Arch Linux
 
 KooL's Arch - Hyprland Install Script
 
